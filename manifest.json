@@ -1,0 +1,16 @@
+{
+  "id": "com.tab5.camera",
+  "name": "Câmera",
+  "version": "1.0.0",
+  "author": "Tab5 OS Team",
+  "description": "Câmera do Tab5 com preview ao vivo, disparo e atalho para a galeria.",
+  "entry": "app.wasm",
+  "icon_symbol": "LV_SYMBOL_IMAGE",
+  "icon_bg_color": "#F43F5E",
+  "file_associations": [],
+  "permissions": [
+    "storage.readwrite"
+  ],
+  "stack_size": 65536,
+  "heap_size": 262144
+}
