@@ -5,7 +5,7 @@
   "author": "Tab5 OS Team",
   "description": "Câmera do Tab5 com preview ao vivo, disparo e atalho para a galeria.",
   "entry": "app.wasm",
-  "icon_symbol": "LV_SYMBOL_IMAGE",
+  "icon_symbol": "LV_SYMBOL_EYE_OPEN",
   "icon_bg_color": "#F43F5E",
   "file_associations": [],
   "permissions": [
